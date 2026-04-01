@@ -31,3 +31,8 @@ function Counter() {
   );
 }
 ```
+* ```count``` es el valor actual.
+* ```setCount``` lo actualiza.
+* El ```onClick``` dispara la actualización y la UI se “sincroniza” sola.
+
+  
