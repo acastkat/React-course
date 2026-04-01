@@ -1,4 +1,4 @@
-# Concepto 1 de 5: ¿Qué es React y cómo “piensa” (componentes + UI declarativa)
+## Concepto 1 de 5: ¿Qué es React y cómo “piensa” (componentes + UI declarativa)
 
 **Idea central:**
 React te ayuda a construir interfaces a partir de **componentes** (piezas reutilizables) que devuelven “cómo debería verse” la UI según el estado actual.
